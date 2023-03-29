@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "16.x"
+  },
   "name": "3dfolio",
   "private": true,
   "version": "0.0.0",
